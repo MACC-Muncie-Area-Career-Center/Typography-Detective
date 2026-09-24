@@ -1,3 +1,8 @@
-# Typography Detective
+# Typography Detective v4
 
-Self-contained MACC Digital Design typography game. Covers leading, tracking, kerning, paragraph spacing, alignment, justification, hyphenation, tabs, lists, font pairing, line length, widows/orphans, text-box alignment, paragraph styles, and character styles. Learn Mode includes multi-solution feedback and a slide-out Design Guide. Test Mode supports 10/20/30/40/50 questions.
+MACC Digital Design typography learning game.
+
+### v4 change
+The Typography Controls vocabulary list is now interactive. Students can mouse over (or keyboard-focus) any term to see a short definition. This creates an in-page glossary without leaving the activity.
+
+Publish `index.html` from the repository root with GitHub Pages.
