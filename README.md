@@ -1,8 +1,3 @@
-# Typography Detective v4
+# Typography Detective v5
 
-MACC Digital Design typography learning game.
-
-### v4 change
-The Typography Controls vocabulary list is now interactive. Students can mouse over (or keyboard-focus) any term to see a short definition. This creates an in-page glossary without leaving the activity.
-
-Publish `index.html` from the repository root with GitHub Pages.
+Robust GitHub Pages version. Rebuilt Learn Mode and Test Mode answer selection, scoring, feedback, and progression. Vocabulary hover definitions and Design Guide retained.
